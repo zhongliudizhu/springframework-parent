@@ -15,7 +15,7 @@
         <module>Dubbo-Provider</module>
     </modules>
     <properties>
-        <dubbo.version>2.6.3</dubbo.version>
+        <dubbo.version>2.6.12</dubbo.version>
         <spring.version>4.3.5.RELEASE</spring.version>
     </properties>
     <packaging>pom</packaging>
